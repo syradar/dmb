@@ -1,4 +1,4 @@
-# dmb - David Malmström Blog
+# ![dmb - David Malmström Blog](https://github.com/syradar/dmb/assets/10453338/cea84c51-5af1-4bd1-8462-cded522d51da)
 
 Welcome to my blog `dmb`! This project aims to provide a curated collection of high-quality resources for web development professionals, with a focus on improving frontend skills, design, and project management.
 
